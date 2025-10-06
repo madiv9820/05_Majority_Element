@@ -4,7 +4,7 @@
 
 ### Problem Understanding:
 
-You’re given an array `nums` of size $\textbf{n}$, and you need to return the **majority element** in the array. The **majority element** is the element that appears more than $\frac{\textbf{n}}{\textbf{2}}$ times.
+You’re given an array `nums` of size $\textbf{n}$, and you need to return the **majority element** in the array. The **majority element** is the element that appears more than $\large \frac{\textbf{n}}{\textbf{2}}$ times.
 
 In simpler terms:
 - If there’s an element that appears more than half of the time in the array, that’s the majority element.
