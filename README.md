@@ -4,16 +4,16 @@
 
 ### Problem Understanding:
 
-You’re given an array `nums` of size $\textbf{n}$, and you need to return the **majority element** in the array. The **majority element** is the element that appears more than $\large \frac{\textbf{n}}{\textbf{2}}$ times.
+You’re given an array `nums` of size $\textbf{n}$, and you need to return the **majority element** in the array. The **majority element** is the element that appears more than $\Large \frac{n}{2}$ times.
 
 In simpler terms:
 - If there’s an element that appears more than half of the time in the array, that’s the majority element.
 
 For example:
 
-In the array $\textbf{[3, 2, 3]}$, the element $\textbf{3}$ appears twice, which is more than half ($\large[\frac{\textbf{3}}{\textbf{2}}] = 1$), so $\textbf{3}$ is the majority element.
+In the array $\textbf{[3, 2, 3]}$, the element $\textbf{3}$ appears twice, which is more than half ($\Large[\frac{{3}}{{2}}] = 1$), so $\textbf{3}$ is the majority element.
 
-In the array $\textbf{[2, 2, 1, 1, 1, 2, 2]}$, the element $\textbf{2}$ appears **four times**, which is more than half ($\large[\frac{\textbf{7}}{\textbf{2}}] = \textbf{3}$), so $\textbf{2}$ is the majority element.
+In the array $\textbf{[2, 2, 1, 1, 1, 2, 2]}$, the element $\textbf{2}$ appears **four times**, which is more than half ($\Large[\frac{{7}}{{2}}] = {3}$), so $\textbf{2}$ is the majority element.
 
 ### Key Points:
 1. **The majority element is guaranteed to exist.**
