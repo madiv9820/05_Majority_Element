@@ -22,5 +22,5 @@ In the array $\textbf{[2, 2, 1, 1, 1, 2, 2]}$, the element $\textbf{2}$ appears 
 2. **Linear Time:**
     - You need to solve this problem in $\textbf{O(n)}$ time, meaning you need to check each element in the array only once. That’s the minimum time required because you have to check every element to determine the majority.
 
-3. **$\textbf{{O(1)}}$ Space:**
+3. **$\textbf{O(1)}$ Space:**
     - You should solve the problem using **constant space**. That means you cannot use extra space like arrays, hashmaps, or counters to store information. You can only use a fixed number of variables.
