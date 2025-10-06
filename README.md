@@ -11,9 +11,9 @@ In simpler terms:
 
 For example:
 
-In the array $\textbf{[3, 2, 3]}$, the element $\textbf{3}$ appears twice, which is more than half ($[\frac{\textbf{3}}{\textbf{2}}] = 1$), so $\textbf{3}$ is the majority element.
+In the array $\textbf{[3, 2, 3]}$, the element $\textbf{3}$ appears twice, which is more than half ($\large[\frac{\textbf{3}}{\textbf{2}}] = 1$), so $\textbf{3}$ is the majority element.
 
-In the array $\textbf{[2, 2, 1, 1, 1, 2, 2]}$, the element $\textbf{2}$ appears **four times**, which is more than half ($[\frac{\textbf{7}}{\textbf{2}}] = \textbf{3}$), so $\textbf{2}$ is the majority element.
+In the array $\textbf{[2, 2, 1, 1, 1, 2, 2]}$, the element $\textbf{2}$ appears **four times**, which is more than half ($\large[\frac{\textbf{7}}{\textbf{2}}] = \textbf{3}$), so $\textbf{2}$ is the majority element.
 
 ### Key Points:
 1. **The majority element is guaranteed to exist.**
